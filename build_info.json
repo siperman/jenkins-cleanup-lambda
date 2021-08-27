@@ -1,0 +1,47 @@
+{
+    "_class":"hudson.model.FreeStyleBuild",
+    "actions":[
+        {
+            "_class":"hudson.model.CauseAction",
+            "causes":[
+                {
+                    "_class":"hudson.model.Cause$UserIdCause",
+                    "shortDescription":"Started by user test",
+                    "userId":"test",
+                    "userName":"test"
+                }
+            ]
+        },
+        {
+            "_class":"org.jenkinsci.plugins.displayurlapi.actions.RunDisplayAction"
+        }
+    ],
+    "artifacts":[
+
+    ],
+    "building":false,
+    "description":null,
+    "displayName":"#4",
+    "duration":21,
+    "estimatedDuration":22,
+    "executor":null,
+    "fullDisplayName":"tttttt #4",
+    "id":"4",
+    "keepLog":false,
+    "number":4,
+    "queueId":7,
+    "result":"SUCCESS",
+    "timestamp":1629967714497,
+    "url":"http://localhost:8080/job/tttttt/4/",
+    "builtOn":"",
+    "changeSet":{
+        "_class":"hudson.scm.EmptyChangeLogSet",
+        "items":[
+
+        ],
+        "kind":null
+    },
+    "culprits":[
+
+    ]
+}
